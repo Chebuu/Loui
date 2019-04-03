@@ -1,0 +1,11 @@
+.logo {
+    position: fixed;
+    width:50px;
+    height: 50px;
+}
+
+.container, .inner{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
